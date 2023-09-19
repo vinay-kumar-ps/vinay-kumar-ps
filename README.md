@@ -1,28 +1,43 @@
-# Hi, I'm VINAY KUMAR PS
+<!-- Title -->
+<h1 align="center">Hi, I'm vinay Kumar ps 👋</h1>
 
-![Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgopher-powerful-golang-star-wars-go-gif-22202865&psig=AOvVaw3fnXF344TRR6_p4uwVG3kU&ust=1695206108850000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiJxoG9toEDFQAAAAAdAAAAABAJ)
-passionate in go
-## About Me
+<!-- Badges/Icons -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-1.17-blue?style=flat&logo=go&logoColor=white" alt="Go Version">
+  <img src="https://img.shields.io/github/stars/YourUsername?style=flat&logo=github" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/followers/YourUsername?style=flat&logo=github" alt="GitHub Followers">
+  <!-- Add more badges for your social profiles, CI/CD status, etc. -->
+</p>
 
-- 💼 Currently working at [Your Current Company](https://www.companywebsite.com)
-- 🌐 Visit my [Website](https://www.yourwebsite.com)
-- 📧 Contact me at [your.email@example.com](mailto:your.email@example.com)
-- 🐦 Connect with me on [Twitter](https://twitter.com/yourtwitterhandle)
-- 👨‍💻 Check out my [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- 📚 Read my [Blog](https://yourblog.com)
+<!-- Introduction -->
+<p align="center">
+  🚀 Welcome to my GitHub profile! I'm a passionate Golang developer, and I enjoy building scalable software and solving complex problems.
+</p>
+
+<!-- Skills -->
+<p align="center">
+  <img src="images/go.png" alt="Golang" width="40" height="40">
+  <img src="images/docker.png" alt="Docker" width="40" height="40">
+  <img src="images/kubernetes.png" alt="Kubernetes" width="40" height="40">
+  <!-- Add more icons for your skills -->
+</p>
 
 
 
+<!-- Connect with Me -->
+<h2 align="center">📫 Connect with Me</h2>
 
+<p align="center">
+  <a href="https://linkedin.com/in/vinay kumar" target="_blank">
+    <img src="images/linkedin.png" alt="LinkedIn" width="40" height="40">
+  </a>
+  <a href="https://twitter.com/YourUsername" target="_blank">
+    <img src="images/twitter.png" alt="Twitter" width="40" height="40">
+  </a>
+  <!-- Add more social media links -->
+</p>
 
-![Demo GIF](https://github.com/yourusername/yourrepository/raw/main/path/to/your.gif)
-
-
-
-
-## Get in Touch
-
-I'm always interested in new opportunities and collaborations. Feel free to reach out to me via [email](mailto:your.email@example.com) or [Twitter](https://twitter.com/yourtwitterhandle).
-
-Thanks for stopping by! 😄
-
+<!-- Footer -->
+<p align="center">
+  <img src="images/gopher.png" alt="Gopher" width="100">
+</p>
