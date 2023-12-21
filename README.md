@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in India
 * 🧠  I'm learning some new stuffs in Golang
-* 🤝  I'm open to collaborating on intresting projects
+* 🤝  Ready to collaborate on intresting projects
 * ⚡  GetSetGo:::
 
 ### Skills
